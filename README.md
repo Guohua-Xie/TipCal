@@ -34,7 +34,7 @@ USers can also divide the total into different group of people to pay for the bi
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/zaJWck7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/zaJWck7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
